@@ -1,0 +1,38 @@
+Body {
+  Background-color: #7D5991;
+  color: #87E6B5;
+  font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1, h2, h3 {
+  Color: #EBE388;
+  Font-family: "Delius unicast", cursive;
+  Text-align: center;
+  Background-color: #2A9243;
+}
+
+Img {
+  Margin: auto;
+}
+nav li {
+  list-style-type:none;
+  Display: inline-block;
+  Background-color: #2A9243;
+  Color: #ffc4f4;
+  Padding: 10px;
+  Margin: 4px
+}
+
+Nav li:hover {
+  Background-color: #EBE388;
+}
+
+Nav {
+ Width: 64%
+ Margin: auto;
+}
+
+
